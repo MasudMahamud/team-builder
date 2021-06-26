@@ -1,0 +1,12 @@
+.auto{
+    background-color: rgb(211, 214, 16);
+    width: 250px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 10px;
+    color: rgb(0, 0, 0);
+    font-weight:400;
+    font-family: fantasy;
+}
